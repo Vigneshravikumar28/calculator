@@ -1,0 +1,24 @@
+h1{
+    background:whitesmoke;
+    color: black;
+    height: 40px;
+    padding: 30px;
+    text-align: center;
+}
+h3{
+    background:yellowgreen;
+    color: black;
+    height: 40px;
+    padding: 30px;
+    text-align: center;
+}
+p{
+    background: green;
+    color: black;
+    height: 30px;
+    width: 90px;
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    font-size:x-large;
+}
